@@ -12,11 +12,11 @@ export function Footer() {
         </div>
         
         <div className="flex gap-6">
-          <a href="https://github.com/jayeshsutar" target="_blank" rel="noopener noreferrer" className="text-on-surface-variant/50 hover:text-secondary hover:drop-shadow-[0_0_8px_rgba(235,178,255,0.8)] transition-all duration-300 hover:-translate-y-1">
+          <a href="https://github.com/akajayesh" target="_blank" rel="noopener noreferrer" className="text-on-surface-variant/50 hover:text-secondary hover:drop-shadow-[0_0_8px_rgba(235,178,255,0.8)] transition-all duration-300 hover:-translate-y-1">
             <Github className="w-6 h-6" />
             <span className="sr-only">GitHub</span>
           </a>
-          <a href="https://linkedin.com/in/jayeshsutar" target="_blank" rel="noopener noreferrer" className="text-on-surface-variant/50 hover:text-secondary hover:drop-shadow-[0_0_8px_rgba(235,178,255,0.8)] transition-all duration-300 hover:-translate-y-1">
+          <a href="www.linkedin.com/in/jayeshsutar89951825a" target="_blank" rel="noopener noreferrer" className="text-on-surface-variant/50 hover:text-secondary hover:drop-shadow-[0_0_8px_rgba(235,178,255,0.8)] transition-all duration-300 hover:-translate-y-1">
             <Linkedin className="w-6 h-6" />
             <span className="sr-only">LinkedIn</span>
           </a>
