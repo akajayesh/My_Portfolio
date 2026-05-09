@@ -51,7 +51,7 @@ export function Navbar() {
         <a href="#home" className="flex items-center gap-3 group">
           <Terminal className="text-primary-dim w-8 h-8 group-hover:text-primary transition-colors" />
           <span className="font-display text-2xl font-bold text-primary tracking-tighter">
-            JAYESH SUTAR <span className="text-on-surface-variant/50 font-normal">// ENG</span>
+            Jayesh Sutar
           </span>
         </a>
 
