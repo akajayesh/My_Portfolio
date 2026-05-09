@@ -82,6 +82,6 @@ export const PORTFOLIO_DATA = {
     phone: "+91-7387885582",
     location: "Maharashtra, India",
     github: "https://github.com/akajayesh", // Link placeholder if real user's repo isn't specified
-    linkedin: "https://linkedin.com/in/jayeshsutar" 
+    linkedin: "https://www.linkedin.com/in/jayeshsutar89951825a" 
   }
 };
