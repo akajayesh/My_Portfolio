@@ -8,7 +8,7 @@ export const PORTFOLIO_DATA = {
       "Software Tester"
     ],
     description: "Driven software engineering student looking for internship opportunities to architect scalable backend systems, deploy intelligent AI solutions, and build seamless full-stack experiences.",
-    resumeLink: "https://drive.google.com/file/d/1Ymvv-gFyYF-rm64HS5NdEEw_M-Reztj3/view?usp=drivesdk",
+    resumeLink: "https://drive.google.com/file/d/1ZlzMAlq6l9WAQwBPwCMcId2ESXjEpKv_/view?usp=sharing",
     heroImage: "https://lh3.googleusercontent.com/aida-public/AB6AXuDf16yInUK-WZsnTv3galWSCweM4Gi8MhI00Mr3pzU1mfoR6379XZqOEckWM4Fk75PLdRy2jBBdGx4Vuuz_3u-1P6RXPrXEHmWqi_6xn8TuTpTOKaKaz_fu1k72COswzK64-saFcAmGhQmo0jXNZLu8FFyFB6MVacXWdJwaqkY1S8WObJuw3t4lncTkETP0sJQgSqFebYqRssGL6q0tFeJxvyBr7qhnl3pklFhndfvgiXy2AbXVEmAU5jRJ0Izv0DosXFVt17qoMHM",
   },
   about: {
