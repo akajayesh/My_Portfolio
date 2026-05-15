@@ -57,7 +57,7 @@ export const PORTFOLIO_DATA = {
     {
       id: "fairqueue",
       title: "FairQueue",
-      category: "System Design / Backend",
+      category: "System Design / Full Stack",
       description: "FairQueue is a distributed systems inspired ticket booking simulator built to explore fairness-first queueing and concurrent booking control under high-traffic scenarios inspired by IRCTC Tatkal. Built with Next.js, FastAPI, Redis, PostgreSQL, Docker, and WebSockets, the system simulates virtual queues, temporary seat locking, and real-time scalable booking workflows.",
       tags: ["NEXT.JS", "FASTAPI", "REDIS", "WEBSOCKETS"],
       links: [
