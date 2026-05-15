@@ -50,7 +50,7 @@ export const PORTFOLIO_DATA = {
       tags: ["REACT", "DRF", "TAILWIND"],
       links: [
         { label: "SOURCE", url: "https://github.com/akajayesh/FlowTime", icon: "github" },
-        { label: "LIVE", url: "#", icon: "globe" }
+        { label: "LIVE", url: "https://flow-time-wheat.vercel.app", icon: "globe" }
       ],
       image: "https://lh3.googleusercontent.com/aida-public/AB6AXuCyPZeM9Y7QpDLSWm2VC9ln6ZECmqy7BxqANNXLJd6SJABUe7qZdKjwDhE-0BsWbfxPxFSCor_CDqZlVT6mm3iimeDRmdXKhIbS8RliPUtaYXMCEB8YhI6diliOr6rHIoi7YV5KMUaQKSrFlq812Oh47Zun-OGCXp_I8EXFrkCkzWzKQXDV-f2q7OANU4yI7ZsnJRtZuDDT6o_x88-G2NHYR_Nes2M-M1VJ8jVVJ5kGIRhdKrP6kIPW-OXXAn9PqfhPBI6Xgmsv714"
     },
