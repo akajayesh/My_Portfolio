@@ -53,6 +53,18 @@ export const PORTFOLIO_DATA = {
         { label: "LIVE", url: "#", icon: "globe" }
       ],
       image: "https://lh3.googleusercontent.com/aida-public/AB6AXuCyPZeM9Y7QpDLSWm2VC9ln6ZECmqy7BxqANNXLJd6SJABUe7qZdKjwDhE-0BsWbfxPxFSCor_CDqZlVT6mm3iimeDRmdXKhIbS8RliPUtaYXMCEB8YhI6diliOr6rHIoi7YV5KMUaQKSrFlq812Oh47Zun-OGCXp_I8EXFrkCkzWzKQXDV-f2q7OANU4yI7ZsnJRtZuDDT6o_x88-G2NHYR_Nes2M-M1VJ8jVVJ5kGIRhdKrP6kIPW-OXXAn9PqfhPBI6Xgmsv714"
+    },
+    {
+      id: "fairqueue",
+      title: "FairQueue",
+      category: "System Design / Backend",
+      description: "FairQueue is a distributed systems inspired ticket booking simulator built to explore fairness-first queueing and concurrent booking control under high-traffic scenarios inspired by IRCTC Tatkal. Built with Next.js, FastAPI, Redis, PostgreSQL, Docker, and WebSockets, the system simulates virtual queues, temporary seat locking, and real-time scalable booking workflows.",
+      tags: ["NEXT.JS", "FASTAPI", "REDIS", "WEBSOCKETS"],
+      links: [
+        { label: "SOURCE", url: "https://github.com/akajayesh/FairQueue", icon: "github" },
+        { label: "LIVE", url: "https://fair-queue.vercel.app/", icon: "globe" }
+      ],
+      image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=800"
     }
   ],
   skills: {
@@ -80,8 +92,8 @@ export const PORTFOLIO_DATA = {
   contact: {
     email: "jayeshsutar312@gmail.com",
     phone: "+91-7387885582",
-    location: "Mumbai, Maharashtra, India",
-    github: "https://github.com/akajayesh", // Link placeholder if real user's repo isn't specified
-    linkedin: "https://www.linkedin.com/in/jayeshsutar89951825a" 
+    location: "Maharashtra, India",
+    github: "https://github.com/jayeshsutar", // Link placeholder if real user's repo isn't specified
+    linkedin: "https://linkedin.com/in/jayeshsutar" 
   }
 };
