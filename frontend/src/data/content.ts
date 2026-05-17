@@ -93,7 +93,7 @@ export const PORTFOLIO_DATA = {
     email: "jayeshsutar312@gmail.com",
     phone: "+91-7387885582",
     location: "Maharashtra, India",
-    github: "https://github.com/jayeshsutar", // Link placeholder if real user's repo isn't specified
-    linkedin: "https://linkedin.com/in/jayeshsutar" 
+    github: "https://github.com/akajayesh", // Link placeholder if real user's repo isn't specified
+    linkedin: "https://www.linkedin.com/in/jayeshsutar89951825a/" 
   }
 };
